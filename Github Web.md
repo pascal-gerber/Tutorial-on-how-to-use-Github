@@ -2,4 +2,4 @@
 
 ## How to use the web version of Github.
 
-![Random Image](Create a new reposetory cmd.PNG)
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Create%20a%20new%20reposetory%20web.PNG)
