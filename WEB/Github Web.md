@@ -11,3 +11,9 @@ The file download part is on the [start page.](https://github.com/pascal-gerber/
 On the website, you can add files to the reposetory easely by clicking **Add files** and **Upload files**
 
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Upload%20web.PNG)
+
+1. Drag and drop/select file
+2. Title and description of the Update
+3. Submit :b
+
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Upload%20web2.PNG)
