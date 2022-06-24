@@ -16,11 +16,20 @@ And once you have it, you must select the **Repositories** and click **New**\
 \
 You will see this site pop up.\
 this is the options of the repository.\
-TIP: Choose your reposetory name wisely, otherwise you'd have to remake it.\
-Recommandation: best you just add a title and a Description, the rest you can all add manually later easely.\
+~~TIP: Choose your reposetory name wisely, otherwise you'd have to remake it.\~~
+**Recommandation: best you just add a title and a Description, the rest you can all add manually later easely.**\
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Options.PNG)
 \
 \
-You have created a new Reposetory\
+#### You have created a new Reposetory\
 Now, you can either [Upload directly on the Web](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Github%20Web.md) "Which is fast, easy and practical"\
 Or you can upload using [the Command Line](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/Github%20CMD.md) "which is more hard but also has more specific benefits"\
+\
+\
+### Way to download someones code easely trought web.
+Now you want to download a file from someone.
+
+The easiest way is to download it trought the website directly.
+~~Note: You don't even need to have a github account that way.~~
+so firstly, you go on the reposetory you want to download and click the <span style="color:green">Green</span>**Green "Code"** Button
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Download%20File.PNG)
