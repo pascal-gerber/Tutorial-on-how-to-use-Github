@@ -12,6 +12,8 @@ On the website, you can add files to the reposetory easely by clicking **Add fil
 
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Upload%20web.PNG)
 
+###### Upload
+
 1. Drag and drop/select file
 2. Title and description of the Update
 3. Submit :b
