@@ -26,7 +26,9 @@ With the normal CMD you can select any path by openning the path on your explore
 and write in the path "Cmd".
 
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/CMD1.PNG)
-\+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+\
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/CMD2.PNG)
-\+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+\
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/CMD3.PNG)
