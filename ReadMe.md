@@ -31,5 +31,6 @@ Now you want to download a file from someone.\
 \
 The easiest way is to download it trought the website directly.\
 _Note: You don't even need to have a github account that way._\
-so firstly, you go on the reposetory you want to download and click the **Green "Code"** Button\
+**Important: you will have to unzip the file if you wanna use it once downloaded**
+so firstly, you go on the reposetory you want to download and click the **Green "Code"** Button and **Download ZIP**\
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Download%20File.PNG)
