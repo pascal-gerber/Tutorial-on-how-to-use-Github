@@ -4,7 +4,7 @@
 
 The web version is very easy to use.\
 don't be affraid of it :b\
-The file download part is on the [start page.](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github)\
+The file download part is on the [start page.](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github)
 
 #### Upload files
 
@@ -19,3 +19,5 @@ On the website, you can add files to the reposetory easely by clicking **Add fil
 3. Submit :b
 
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Upload%20web2.PNG)
+
+#### Tutorial made by Pascal.
