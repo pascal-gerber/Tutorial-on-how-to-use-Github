@@ -1,21 +1,13 @@
-# How to use Github on the Web.
+# How to use the web version
 
-## How to use the web version of Github.
+## The web version is very easy to use.
 
-Firstly, let us look at what a github reposetory is.
+The web version is very easy to use.\
+don't be affraid of it :b\
+The file download part is on the [start page.](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github)\
 
-Imagine that the reposetory is like a Folder of files and codes that you put online on the internet for everone to ACCESS.
+#### Upload files
 
-Github allows you to do EXACTLY that.
+On the website, you can add files to the reposetory easely by clicking **Add files** and **Upload files**
 
-
-And now, How do i make one?
-
-making one is very easy over the web.
-
-First, you start by making a github account "hope it doesn't require a Tutorial :b"
-
-And once you have it, you must select the **Reposetories** and click **New**
-![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Create%20The%20First%20Reposetory.PNG)
-
-![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Create%20a%20new%20reposetory%20web.PNG)
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/tree/main/WEB/Upload%20web.PNG)
