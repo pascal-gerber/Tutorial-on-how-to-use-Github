@@ -19,3 +19,8 @@ this is the options of the repository.\
 TIP: Choose your reposetory name wisely, otherwise you'd have to remake it.\
 Recommandation: best you just add a title and a Description, the rest you can all add manually later easely.\
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Options.PNG)
+\
+\
+You have created a new Reposetory\
+Now, you can either [Upload directly on the Web](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/WEB/Github%20Web.md) "Which is fast, easy and practical"\
+Or you can upload using [the Command Line](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/Github%20CMD.md) "which is more hard but also has more specific benefits"\
