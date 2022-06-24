@@ -18,4 +18,4 @@ First, you start by making a github account "hope it doesn't require a Tutorial 
 And once you have it, you must select the **Reposetories** and click **New**
 ![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Create%20The%20First%20Reposetory.PNG)
 
-![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Create%20a%20new%20reposetory%20web.PNG)
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/Options.PNG)
