@@ -37,8 +37,7 @@ and write in the path "Cmd".
 on the CMD the mainword is "git"\
 \
 you have many different git commands such as:\
-\
-\
+
 ```
 start a working area (see also: git help tutorial)
    clone     Clone a repository into a new directory
@@ -75,8 +74,8 @@ collaborate (see also: git help workflows)
 \
 these are some commands that can be used in github CMD\
 now the annoying part when creating a new reposetory.\
-                                                                     ||\
-copy here                                                            \/
+_____________________________________________________________________||\
+copy here____________________________________________________________\/\
 ```
 git init
 git commit -m "first commit"
@@ -86,7 +85,7 @@ git push -u origin main
 ```
 \
 and once every link is established, you can simply use 3 simple commands\
-\
+
 ```
 git add *
 git commit -m "new update"
@@ -101,19 +100,19 @@ git init
 ```
 /\ will make a prepared settup for the upload in the specific reposetory\
 the other mainly used codes will be stored in this file as settings.\
-\
+
 ```
 git add *
 ```
 /\ the syntax can be changed by changing the star to a certain file\
 this process is like the selecting of a file\
-\
+
 ```
 git commit -m "first commit"
 ```
 /\ the commit works as a title setting\
 you can make a title for each of your commits, like a name for a step forward\
-\
+
 ```
 git push
 ```
