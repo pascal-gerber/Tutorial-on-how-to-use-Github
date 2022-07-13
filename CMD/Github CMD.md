@@ -72,6 +72,54 @@ collaborate (see also: git help workflows)
    pull      Fetch from and integrate with another repository or a local branch
    push      Update remote refs along with associated objects
 ```
+\
+these are some commands that can be used in github CMD\
+now the annoying part when creating a new reposetory.\
+                                                                     ||\
+copy here                                                            \/
+```
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pascal-gerber/test.git
+git push -u origin main
+```
+\
+and once every link is established, you can simply use 3 simple commands\
+\
+```
+git add *
+git commit -m "new update"
+git push
+```
+\
+very simple\
+Now up to some key knowledge for github.
+# Github main commands for adding new files or/and modifiying your reposetory
+```
+git init
+```
+/\ will make a prepared settup for the upload in the specific reposetory\
+the other mainly used codes will be stored in this file as settings.\
+\
+```
+git add *
+```
+/\ the syntax can be changed by changing the star to a certain file\
+this process is like the selecting of a file\
+\
+```
+git commit -m "first commit"
+```
+/\ the commit works as a title setting\
+you can make a title for each of your commits, like a name for a step forward\
+\
+```
+git push
+```
+/\ you may, or may not have heard about it\
+git push is simply for pasting the copied file into the cloud
+
 
 
 
