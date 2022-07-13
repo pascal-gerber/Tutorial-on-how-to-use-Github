@@ -99,19 +99,19 @@ Now up to some key knowledge for github.
 git init
 ```
 /\ will make a prepared settup for the upload in the specific reposetory\
-the other mainly used codes will be stored in this file as settings.\
+the other mainly used codes will be stored in this file as settings.
 
 ```
 git add *
 ```
 /\ the syntax can be changed by changing the star to a certain file\
-this process is like the selecting of a file\
+this process is like the selecting of a file
 
 ```
 git commit -m "first commit"
 ```
 /\ the commit works as a title setting\
-you can make a title for each of your commits, like a name for a step forward\
+you can make a title for each of your commits, like a name for a step forward
 
 ```
 git push
@@ -119,6 +119,19 @@ git push
 /\ you may, or may not have heard about it\
 git push is simply for pasting the copied file into the cloud
 
+### How to imagine this process in images
+```
+git add *
+```
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/gitAdd.PNG)
+```
+git commit -m "first commit"
+```
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/gitCommit.PNG)
+```
+git push
+```
+![Random Image](https://github.com/pascal-gerber/Tutorial-on-how-to-use-Github/blob/main/CMD/gitPush.PNG)
 
 
 
